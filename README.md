@@ -1,4 +1,4 @@
-# lab-6
+# CMPUT 301 : Lab 6 - Javadoc
 ## Student Details
 
 - **Full Name:** `Zhaoyang Dong`
